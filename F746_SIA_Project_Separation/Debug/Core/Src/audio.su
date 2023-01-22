@@ -1,0 +1,14 @@
+../Core/Src/audio.c:141:6:audioLoop	24	static
+../Core/Src/audio.c:183:6:AudioSetup	8	static
+../Core/Src/audio.c:196:6:Graphique	8	static
+../Core/Src/audio.c:223:6:DrawSprectrum	16	static
+../Core/Src/audio.c:251:13:accumulateInputLevels	24	static
+../Core/Src/audio.c:284:6:HAL_SAI_RxCpltCallback	16	static
+../Core/Src/audio.c:294:6:HAL_SAI_RxHalfCpltCallback	16	static
+../Core/Src/audio.c:313:14:readFloatFromSDRAM	24	static
+../Core/Src/audio.c:325:13:writeFloatToSDRAM	24	static
+../Core/Src/audio.c:338:16:readInt16FromSDRAM	24	static
+../Core/Src/audio.c:350:13:writeInt16ToSDRAM	24	static
+../Core/Src/audio.c:383:13:processAudio	40	static
+../Core/Src/audio.c:447:6:runFFT	1040	static
+../Core/Src/audio.c:511:6:compression	32	static

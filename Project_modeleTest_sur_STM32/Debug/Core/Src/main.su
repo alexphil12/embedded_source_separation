@@ -1,0 +1,6 @@
+../Core/Src/main.c:1742:6:StartDefaultTask	8	static
+../Core/Src/main.c:364:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:421:6:PeriphCommonClock_Config	144	static,ignoring_inline_asm
+../Core/Src/main.c:154:5:main	103736	static,ignoring_inline_asm
+../Core/Src/main.c:1763:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:1780:6:Error_Handler	0	static,ignoring_inline_asm
